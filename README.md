@@ -1,16 +1,21 @@
-### Hi there 👋
+![my bg](https://github.com/lukaszkoziorowski/lukaszkoziorowski/blob/master/bg.png)
 
-<!--
-**lukaszkoziorowski/lukaszkoziorowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm 19 years old student of the University of Gdańsk. I build web applications and websites using **HTML, SCSS, and JavaScript**. I'm also planning to learn React in the nearest future. My biggest goal of my self-development is to work in a software house or a startup and develop awesome software! 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%C5%82ukasz-koziorowski-953236179/?locale=en_US)
+&nbsp;
+[![Gmail](https://github.com/lukaszkoziorowski/lukaszkoziorowski/blob/master/gmail.png) Gmail](mailto:koziorowskilukasz1@gmail.com)
+&nbsp;
+
+## Technologies
+- HTML5
+- CSS3 + SCSS (I normally use BEM)
+- JavaScript
+- Git + GitHub
+
+## Planning to learn:
+- TypeScript
+- React
+- Jira
