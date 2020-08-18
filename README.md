@@ -15,7 +15,11 @@ I'm 19 years old student of the University of Gdańsk. I build web applications 
 - JavaScript
 - Git + GitHub
 
+## Learning:
+- React
+
 ## Planning to learn:
 - TypeScript
-- React
 - Jira
+- Webpack
+- Redux
